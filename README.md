@@ -1,2 +1,20 @@
 # vibe-coding-hands-on
-A hands on experience of vibe coding
+
+## The Name of the website:
+```
+```
+
+## The prompt:
+
+```
+
+```
+
+## A small part of the code 
+
+```
+
+```
+
+## A Window of the output:
+![Output](sample.png)
